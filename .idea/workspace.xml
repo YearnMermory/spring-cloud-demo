@@ -5,4 +5,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="ServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.servereureka.ServerEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
 </project>

@@ -1,11 +1,11 @@
 server:
-  port: 8000
+  port: 8000 #发布端口地址
 
 eureka:
   instance:
-    hostname: localhost
+    hostname: localhost #发布ip
   client:
-    register-with-eureka: false
-    fetch-registry: false
+    register-with-eureka: false #是否把自己当作服务注册到eureka上
+    fetch-registry: false #要不要去注册中心获取其他服务的地址
     service-url:
-      default-zone: http://${eureka.instance.hostname}:${server.port}/eureka/
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/ #eureka 默认地址 defaultZone 注意
