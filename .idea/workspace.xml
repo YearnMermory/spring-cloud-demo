@@ -1,9 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a8e63df-cbba-48b4-94b7-c1a147b34736" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-eureka/src/main/java/com/learn/servereureka/ServerEurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-eureka/src/main/java/com/learn/servereureka/ServerEurekaApplication.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gXLkSG3DQ0WwuixsxOPT8q0Zqi" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="ServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -13,5 +57,87 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ServiceClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.learn.serviceclient.ServiceClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ServerEurekaApplication" />
+      <item itemvalue="Spring Boot.ServiceClientApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a8e63df-cbba-48b4-94b7-c1a147b34736" name="Default Changelist" comment="" />
+      <created>1598256132406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598256132406</updated>
+      <workItem from="1598256135703" duration="1693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" width="1201" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598257822524">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1201" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598257822524" />
+    <state x="168" y="94" key="DiffContextDialog" timestamp="1598256915368">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="168" y="94" key="DiffContextDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1598256915368" />
+    <state width="1638" height="278" key="GridCell.Tab.0.bottom" timestamp="1598257753463">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753463" />
+    <state width="1638" height="278" key="GridCell.Tab.0.center" timestamp="1598257753461">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753461" />
+    <state width="1638" height="278" key="GridCell.Tab.0.left" timestamp="1598257753460">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753460" />
+    <state width="1638" height="278" key="GridCell.Tab.0.right" timestamp="1598257753462">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753462" />
+    <state width="1638" height="278" key="GridCell.Tab.1.bottom" timestamp="1598257753466">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753466" />
+    <state width="1638" height="278" key="GridCell.Tab.1.center" timestamp="1598257753465">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753465" />
+    <state width="1638" height="278" key="GridCell.Tab.1.left" timestamp="1598257753464">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753464" />
+    <state width="1638" height="278" key="GridCell.Tab.1.right" timestamp="1598257753466">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="278" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1598257753466" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1598256916479">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598256916479" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598256196882">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1598256196882" />
+    <state x="208" y="188" key="new project wizard" timestamp="1598257109891">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="208" y="188" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1598257109891" />
   </component>
 </project>
